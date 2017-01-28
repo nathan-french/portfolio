@@ -2,6 +2,7 @@
   font-size: 15px;
   font-style: oblique;
 
+
 }
 .font_b{
   color: green;
@@ -10,5 +11,10 @@
 
 .border{
   border: 1px dotted green;
-  float: left
+
+}
+
+.img{
+  float: right
+
 }
