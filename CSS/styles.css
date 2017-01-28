@@ -5,19 +5,19 @@
 
 }
 .font_b{
-  color: green;
+  color: black;
   font-size: 11px;
 }
 
 .border{
-  border: 1px dotted green;
+  border: 1px dotted black;
   padding-top: 10px;
   margin: 17px;
 
 }
 
 .border_2{
-  border: 1px solid green;
+  border: 1px solid black;
   padding-top: 10px;
   margin: 17px;
 }
